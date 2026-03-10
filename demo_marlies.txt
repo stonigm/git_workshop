@@ -3,8 +3,8 @@
 # please answer the following questions:
 
 # what is your favourite colour?
-#
+# blue
 
 # what is your favourite animal?
-#
+# whale
 
