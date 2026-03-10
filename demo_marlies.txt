@@ -1,0 +1,10 @@
+# this file is for demo purpose only
+
+# please answer the following questions:
+
+# what is your favourite colour?
+#
+
+# what is your favourite animal?
+#
+
