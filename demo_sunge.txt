@@ -3,8 +3,8 @@
 # please answer the following questions:
 
 # what is your favourite colour?
-#black
+#black, pink
 
 # what is your favourite animal?
-#butterfly
+#butterfly, cheetah
 
